@@ -15,3 +15,13 @@ It processes the user input comment and runs it through our ML model and shows t
 5)insult
 
 6)identity hate.
+
+To user,it kind of looks like this :
+
+[Home page](https://drive.google.com/uc?export=view&id=1551svUaKoPL_qmg3HW1vzF1m-89OW1aD)
+
+
+[Comment page](https://drive.google.com/uc?export=view&id=11u3Y8ZFCcbTESYYv7hCunyNpeJ_SAOke)
+
+
+[Result page](https://drive.google.com/uc?export=view&id=1V_r8MwSWg8aC1Z1bffXQSgjwQ3qCtKDT)
