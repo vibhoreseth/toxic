@@ -25,3 +25,7 @@ To user,it kind of looks like this :
 
 
 [Result page](https://drive.google.com/uc?export=view&id=1V_r8MwSWg8aC1Z1bffXQSgjwQ3qCtKDT)
+
+The app deployed on azure cloud is https://toxiccomments.azurewebsites.net/
+
+The app is still developing and more projects are sure to come.
